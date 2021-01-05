@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
-import { Col, Row, Container } from "../components/Grid";
+import Header from "../../components/Header";
+import Footer from "../../components/Footer";
+import { Col, Row, Container } from "../../components/Grid";
 
 function About() {
     return (
