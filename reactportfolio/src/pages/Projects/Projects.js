@@ -1,7 +1,8 @@
 import React from "react";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
-import { Container, Col, Row } from "../../components/Grid";
+import { Container, Row } from "../../components/Grid";
+import Project from "../../components/Project";
 
 function Projects() {
     return (
@@ -9,111 +10,46 @@ function Projects() {
             <Header />
             <Container>
                 <Row>
-                    <Col size="md-6">
-                        <Row>
-                            <Col size="md-12">
-                                <h1><a href="https://github.com/seahopki12/holiday_wish_list" target="_blank" rel="noreferrer">Holiday Wish List Tracker</a></h1>
-                            </Col>
-                        </Row>
-                        <Row>
-                            <Col size="md-12">
-                                <a href="https://project-two-gwu.herokuapp.com/" target="_blank" rel="noreferrer">
-                                    <img
-                                        src="./documents/Holiday Wish List.gif"
-                                        alt="Holiday Wish List"
-                                    />
-                                </a>
-                            </Col>
-                        </Row>
-                    </Col>
-                    <Col size="md-6">
-                        <Row>
-                            <Col size="md-12">
-                                <h1><a href="https://github.com/seahopki12/vacation_planner" target="_blank" rel="noreferrer">Vacation Planner</a></h1>
-                            </Col>
-                        </Row>
-                        <Row>
-                            <Col size="md-12">
-                                <a href="https://seahopki12.github.io/vacation_planner/" target="_blank" rel="noreferrer">
-                                    <img
-                                        src="./documents/Vacation Planner.gif"
-                                        alt="Vacation Planner"
-                                    />
-                                </a>
-                            </Col>
-                        </Row>
-                    </Col>
+                    <Project 
+                    git="https://github.com/seahopki12/holiday_wish_list" 
+                    app="https://project-two-gwu.herokuapp.com/"
+                    gif="./documents/Holiday Wish List.gif"
+                    name="Holiday Wish List Tracker"
+                    />
+                    <Project 
+                    git="https://github.com/seahopki12/vacation_planner" 
+                    app="https://seahopki12.github.io/vacation_planner/"
+                    gif="./documents/Vacation Planner.gif"
+                    name="Vacation Planner"
+                    />
                 </Row>
                 <Row>
-                    <Col size="md-6">
-                        <Row>
-                            <Col size="md-12">
-                                <h1><a href="https://github.com/seahopki12/weather_dashboard" target="_blank" rel="noreferrer">Weather Dashboard</a></h1>
-                            </Col>
-                        </Row>
-                        <Row>
-                            <Col size="md-12">
-                                <a href="https://seahopki12.github.io/weather_dashboard/" target="_blank" rel="noreferrer">
-                                    <img
-                                        src="./documents/Weather Dashboard.gif"
-                                        alt="Weather Dashboard" />
-                                </a>
-                            </Col>
-                        </Row>
-                    </Col>
-                    <Col size="md-6">
-                        <Row>
-                            <Col size="md-12">
-                                <h1><a href="https://github.com/seahopki12/password_generator" target="_blank" rel="noreferrer">Password Generator</a></h1>
-                            </Col>
-                        </Row>
-                        <Row>
-                            <Col size="md-12">
-                                <a href="https://seahopki12.github.io/password_generator/" target="_blank" rel="noreferrer">
-                                    <img
-                                        src="./documents/Password Generator.gif"
-                                        alt="Password Generator"
-                                    />
-                                </a>
-                            </Col>
-                        </Row>
-                    </Col>
+                    <Project 
+                    git="https://github.com/seahopki12/weather_dashboard" 
+                    app="https://seahopki12.github.io/weather_dashboard/"
+                    gif="./documents/Weather Dashboard.gif"
+                    name="Weather Dashboard"
+                    />
+                    <Project 
+                    git="https://github.com/seahopki12/password_generator" 
+                    app="https://seahopki12.github.io/password_generator/"
+                    gif="./documents/Password Generator.gif"
+                    name="Password Generator"
+                    />
                 </Row>
                 <Row>
-                    <Col size="md-6">
-                        <Row>
-                            <Col size="md-12">
-                                <h1><a href="https://github.com/seahopki12/work_day_scheduler" target="_blank" rel="noreferrer">Work Day Scheduler</a></h1>
-                            </Col>
-                        </Row>
-                        <Row>
-                            <Col size="md-12">
-                                <a href="https://seahopki12.github.io/work_day_scheduler/" target="_blank" rel="noreferrer">
-                                    <img
-                                        src="./documents/Work Day Scheduler.gif"
-                                        alt="Work Day Scheduler"
-                                    />
-                                </a>
-                            </Col>
-                        </Row>
-                    </Col>
-                    <Col size="md-6">
-                        <Row>
-                            <Col size="md-12">
-                                <h1><a href="https://github.com/seahopki12/burger" target="_blank" rel="noreferrer">Eat-Da-Burger!</a></h1>
-                            </Col>
-                        </Row>
-                        <Row>
-                            <Col size="md-12">
-                                <a href="https://gentle-wave-77495.herokuapp.com/" target="_blank" rel="noreferrer">
-                                    <img
-                                        src="./documents/Eat-Da-Burger!.gif"
-                                        alt="Eat-Da-Burger!"
-                                    />
-                                </a>
-                            </Col>
-                        </Row>
-                    </Col>
+                    <Project 
+                    git="https://github.com/seahopki12/work_day_scheduler" 
+                    app="https://seahopki12.github.io/work_day_scheduler/"
+                    gif="./documents/Work Day Scheduler.gif"
+                    name="Work Day Scheduler"
+                    />
+                    <Project 
+                    git="https://github.com/seahopki12/burger" 
+                    app="https://gentle-wave-77495.herokuapp.com/"
+                    gif="./documents/Eat-Da-Burger!.gif"
+                    name="Eat-Da-Burger!"
+                    />
                 </Row>
             </Container>
             <Footer />
