@@ -1,0 +1,9 @@
+#pinned {
+    position: sticky;
+    bottom:0;
+}
+
+#color-theme {
+    background-color: white;
+    color: black;
+}

@@ -1,12 +1,13 @@
 import React from "react";
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
+import "./style.css"
 
 function Contact() {
     return (
         <div>
-            <Header />
             <div className="center">
+                <Header />
                 <h1>Contact</h1>
                 <ul>
                     <li><a href="https://github.com/seahopki12" target="_blank" rel="noreferrer">GitHub</a></li>
