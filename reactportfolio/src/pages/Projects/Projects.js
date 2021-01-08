@@ -10,7 +10,7 @@ function Projects() {
         <div>
             <Header />
             <h1 className="center">Projects</h1>
-            <Container>
+            <Container fluid>
                 <Row>
                     <Project
                         git="https://github.com/seahopki12/holiday_wish_list"
