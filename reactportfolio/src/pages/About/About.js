@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../../components/Header";
-import Footer from "../../components/Footer";
+// import Footer from "../../components/Footer";
 import { Col, Row, Container } from "../../components/Grid";
 import "./style.css"
 
@@ -24,7 +24,7 @@ function About() {
                     </Col>
                 </Row>
             </Container>
-            <Footer />
+            {/* <Footer /> */}
         </div>
     )
 }

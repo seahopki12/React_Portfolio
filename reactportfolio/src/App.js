@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Home from "./pages/Home/Home";
 import Projects from "./pages/Projects/Projects";
 import About from "./pages/About/About";
@@ -9,7 +9,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <div>
           <Switch>
             <Route exact path="/" component={Home} />
@@ -20,7 +20,7 @@ function App() {
             <Route component={NoMatch} />
           </Switch>
       </div>
-    </Router>
+    </HashRouter>
   );
 }
 

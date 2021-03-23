@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../../components/Header";
-import Footer from "../../components/Footer";
+// import Footer from "../../components/Footer";
 import { Container, Row } from "../../components/Grid";
 import Project from "../../components/Project";
 import "./style.css"
@@ -54,7 +54,7 @@ function Projects() {
                     />
                 </Row>
             </Container>
-            <Footer />
+            {/* <Footer /> */}
         </div>
     )
 }

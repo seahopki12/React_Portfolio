@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../../components/Header";
-import Footer from "../../components/Footer";
+// import Footer from "../../components/Footer";
 import "./style.css"
 
 function Contact() {
@@ -20,7 +20,7 @@ function Contact() {
                     </li>
                 </ul>
             </div>
-            <Footer />
+            {/* <Footer /> */}
         </div>
     )
 }
