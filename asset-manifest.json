@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.0911513f.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.c8cebed6.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.c8cebed6.chunk.js.map",
+    "main.js": "/React_Portfolio/static/js/main.56f7cb03.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.56f7cb03.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.4b6f7dfa.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.4b6f7dfa.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/React_Portfolio/static/css/2.ae9f1eb3.chunk.css",
@@ -13,13 +13,23 @@
     "index.html": "/React_Portfolio/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/React_Portfolio/static/css/2.ae9f1eb3.chunk.css.map",
     "static/css/main.0911513f.chunk.css.map": "/React_Portfolio/static/css/main.0911513f.chunk.css.map",
-    "static/js/2.d5a3fe32.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.d5a3fe32.chunk.js.LICENSE.txt"
+    "static/js/2.d5a3fe32.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.d5a3fe32.chunk.js.LICENSE.txt",
+    "static/media/Eat-Da-Burger.1e885c85.gif": "/React_Portfolio/static/media/Eat-Da-Burger.1e885c85.gif",
+    "static/media/Holiday Wish List.86d37c29.gif": "/React_Portfolio/static/media/Holiday Wish List.86d37c29.gif",
+    "static/media/Password Generator.715d6e64.gif": "/React_Portfolio/static/media/Password Generator.715d6e64.gif",
+    "static/media/Vacation Planner.5587dead.gif": "/React_Portfolio/static/media/Vacation Planner.5587dead.gif",
+    "static/media/Weather Dashboard.97c3e9e3.gif": "/React_Portfolio/static/media/Weather Dashboard.97c3e9e3.gif",
+    "static/media/Work Day Scheduler.12177280.gif": "/React_Portfolio/static/media/Work Day Scheduler.12177280.gif",
+    "static/media/profile_picture_2.f99f7274.jpg": "/React_Portfolio/static/media/profile_picture_2.f99f7274.jpg",
+    "static/media/vacation_planner.9c7b18a3.png": "/React_Portfolio/static/media/vacation_planner.9c7b18a3.png",
+    "static/media/weather_dashboard.c0cf193b.png": "/React_Portfolio/static/media/weather_dashboard.c0cf193b.png",
+    "static/media/wish_list.aa2ace26.png": "/React_Portfolio/static/media/wish_list.aa2ace26.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4b6f7dfa.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.d5a3fe32.chunk.js",
     "static/css/main.0911513f.chunk.css",
-    "static/js/main.c8cebed6.chunk.js"
+    "static/js/main.56f7cb03.chunk.js"
   ]
 }
