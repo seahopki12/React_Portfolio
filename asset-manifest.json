@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.15ce5884.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.75d49a80.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.75d49a80.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.8fd567a0.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.8fd567a0.js.map",
+    "static/css/2.6f5b9504.chunk.css": "/React_Portfolio/static/css/2.6f5b9504.chunk.css",
+    "static/js/2.e845cd0e.chunk.js": "/React_Portfolio/static/js/2.e845cd0e.chunk.js",
+    "static/js/2.e845cd0e.chunk.js.map": "/React_Portfolio/static/js/2.e845cd0e.chunk.js.map",
+    "index.html": "/React_Portfolio/index.html",
+    "static/css/2.6f5b9504.chunk.css.map": "/React_Portfolio/static/css/2.6f5b9504.chunk.css.map",
+    "static/css/main.15ce5884.chunk.css.map": "/React_Portfolio/static/css/main.15ce5884.chunk.css.map",
+    "static/js/2.e845cd0e.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.e845cd0e.chunk.js.LICENSE.txt",
+    "static/media/Holiday Wish List.86d37c29.gif": "/React_Portfolio/static/media/Holiday Wish List.86d37c29.gif",
+    "static/media/Password Generator.715d6e64.gif": "/React_Portfolio/static/media/Password Generator.715d6e64.gif",
+    "static/media/Pooler Paws.4da3a521.gif": "/React_Portfolio/static/media/Pooler Paws.4da3a521.gif",
+    "static/media/Vacation Planner.5587dead.gif": "/React_Portfolio/static/media/Vacation Planner.5587dead.gif",
+    "static/media/Weather Dashboard.97c3e9e3.gif": "/React_Portfolio/static/media/Weather Dashboard.97c3e9e3.gif",
+    "static/media/Work Day Scheduler.12177280.gif": "/React_Portfolio/static/media/Work Day Scheduler.12177280.gif",
+    "static/media/mdb.css": "/React_Portfolio/static/media/arrow_right.0897f985.svg",
+    "static/media/casual_profile.c936233f.jpg": "/React_Portfolio/static/media/casual_profile.c936233f.jpg",
+    "static/media/all.min.css": "/React_Portfolio/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/profile_picture_2.f99f7274.jpg": "/React_Portfolio/static/media/profile_picture_2.f99f7274.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fd567a0.js",
+    "static/css/2.6f5b9504.chunk.css",
+    "static/js/2.e845cd0e.chunk.js",
+    "static/css/main.15ce5884.chunk.css",
+    "static/js/main.75d49a80.chunk.js"
+  ]
+}
