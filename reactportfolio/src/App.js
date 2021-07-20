@@ -7,6 +7,7 @@ import Contact from "./pages/Contact/Contact";
 import NoMatch from "./pages/NoMatch";
 import './App.css';
 
+
 function App() {
   return (
     <HashRouter>

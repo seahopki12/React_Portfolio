@@ -6,8 +6,8 @@ import "./style.css"
 function Contact() {
     return (
         <div>
+            <Header />
             <div className="center">
-                <Header />
                 <h1>Contact</h1>
                 <ul>
                     <li><a href="https://github.com/seahopki12" target="_blank" rel="noreferrer">GitHub</a></li>
@@ -19,8 +19,8 @@ function Contact() {
                         <span>Phone Number: </span><a href="tel:17573278855">(757)327-8855</a>
                     </li>
                 </ul>
+                {/* <Footer /> */}  
             </div>
-            {/* <Footer /> */}
         </div>
     )
 }

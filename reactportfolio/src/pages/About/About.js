@@ -1,8 +1,9 @@
 import React from "react";
 import Header from "../../components/Header";
-// import Footer from "../../components/Footer";
 import { Col, Row, Container } from "../../components/Grid";
+import Image from "react-bootstrap/Image";
 import "./style.css"
+import profile from "../../documents/profile_picture_2.jpg";
 
 function About() {
     return (
@@ -11,20 +12,18 @@ function About() {
             <Container>
                 <Row>
                     <Col size="md-6">
-                        <img src="./documents/profile_picture_2.jpg" alt="Profile" width="100%" />
+                        <Image src={profile} alt="Headshot" className="about-image" thumbnail roundedCircle/>
                     </Col>
                     <Col size="md-6">
-                        <p id="body">I am a full-stack web developer based in Washington, D.C. I started my career as a
-                        Audio/Visual
-                        specialist for the Smithsonian Institution in Washington, D.C. From there, I moved into the
-                        intergrated AV
-                        system industry working as a service technician. This role set me up for my knowledge and
-                        experience in the
-                        IT/programming industry.</p>
+                        <p>I am a full-stack web developer with a background in integrated audio/visual systems. 
+                            I have recently completed a 6-month Full Stack Web Development Coding Bootcamp
+                            where I became familiar with the fundamentals of web development and focused on learning
+                            a variety of modern technologies, including the MERN stack. I am a passionate worker 
+                            with a knack for learning and problem-solving.
+                        </p>
                     </Col>
                 </Row>
             </Container>
-            {/* <Footer /> */}
         </div>
     )
 }

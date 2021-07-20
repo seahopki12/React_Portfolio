@@ -1,3 +1,16 @@
 .center {
-    align-content: center;
+    text-align: center;
+}
+
+.pad {
+    margin-top: 2%;
+}
+
+.image-crop {
+    width: 400px;
+    height: 230px;
+}
+
+.snap {
+    display: inline-block;
 }
