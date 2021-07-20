@@ -8,7 +8,7 @@ import vacation from "../../documents/Vacation Planner.gif";
 import weather from "../../documents/Weather Dashboard.gif";
 import password from "../../documents/Password Generator.gif";
 import scheduler from "../../documents/Work Day Scheduler.gif";
-import burger from "../../documents/Eat-Da-Burger.gif";
+// import burger from "../../documents/Eat-Da-Burger.gif";
 import pooler from "../../documents/Pooler Paws.gif";
 
 
